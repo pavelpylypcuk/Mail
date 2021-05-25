@@ -1,0 +1,26 @@
+textarea {
+    min-height: 400px;
+}
+
+p {
+    margin-bottom: 1px;
+}
+
+#reply {
+    margin-top: 10px;
+}
+
+#archive_button {
+    color: black;
+    font-size: large;
+    font-weight: 500;
+    border-color: black;
+}
+
+#archive_button:hover {
+    color: white;
+}
+
+#body_box {
+    white-space: pre-wrap;
+}
